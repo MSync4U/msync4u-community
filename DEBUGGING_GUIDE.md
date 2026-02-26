@@ -54,7 +54,7 @@ Since MSync4U is a browser extension, its core logic runs in the background. A s
 Once you have the logs, please:
 取得日誌後，請：
 
-* **Open a [New Issue](https://github.com/MSync4U/msync4u-community/issues/new/choose)**.
+* **Open a [New Issue](https://github.com/MSync4U/msync4u-community/issues/new?template=bug_report.md)**.
 * **Paste the logs** into the **"Console Logs"** section of our template.
 * **建立一個 [新 Issue]**，並將日誌貼入模板的對應區塊中。
 

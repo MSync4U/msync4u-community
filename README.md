@@ -5,9 +5,9 @@
 
 ## 🌟 Introduction / 專案簡介
 
-**MSync4U** (Micro-Sync for You / 小滿) is a lightweight Firefox extension born from the legacy of **Xmarks**. Our mission is to provide a reliable, transparent, and secure way to manage and sync your bookmark trees.
+**MSync4U** (bookMarks-Sync for You) is a lightweight Firefox extension born from the legacy of **Xmarks**. Our mission is to provide a reliable, transparent, and secure way to manage and sync your bookmark trees.
 
-**MSync4U** (小滿) 是一款輕量級的 Firefox 附加元件，靈感來自傳奇的 **Xmarks**。我們的使命是提供一種可靠、透明且安全的方式來管理與同步您的書籤樹。
+**MSync4U** (bookMarks-Sync for You) 是一款輕量級的 Firefox 附加元件，靈感來自傳奇的 **Xmarks**。我們的使命是提供一種可靠、透明且安全的方式來管理與同步您的書籤樹。
 
 ---
 
@@ -54,9 +54,9 @@ We use **GitHub Discussions** as our primary community hub for beta testing feed
 If MSync4U helps you, consider supporting its development!
 如果 MSync4U 對您有幫助，請考慮支持開發工作！
 
-* **Buy Me a Coffee**: [您的 Buy Me a Coffee 連結]。
-* **Contribution**: We welcome bug reports and code contributions via GitHub.
-    * **貢獻**：歡迎透過 GitHub 提交 Bug 回報或代碼貢獻。
+* **Buy Me a Coffee**: [Buy Me a Coffee](https://buymeacoffee.com/msync4u)。
+* **Contribution**: We welcome bug reports via GitHub.
+    * **貢獻**：歡迎透過 GitHub 提交 Bug 回報。
 
 ---
 

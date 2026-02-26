@@ -54,7 +54,7 @@ We use **GitHub Discussions** as our primary community hub for beta testing feed
 If MSync4U helps you, consider supporting its development!
 如果 MSync4U 對您有幫助，請考慮支持開發工作！
 
-* **Buy Me a Coffee**: [Buy Me a Coffee](https://buymeacoffee.com/msync4u)。
+* **[Buy Me a Coffee](https://buymeacoffee.com/msync4u)**: [Buy Me a Coffee]。
 * **Contribution**: We welcome bug reports via GitHub.
     * **貢獻**：歡迎透過 GitHub 提交 Bug 回報。
 
